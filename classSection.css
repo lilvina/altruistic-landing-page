@@ -1,0 +1,27 @@
+.live-class-section {
+  background-color: whitesmoke;
+}
+
+.live-class-title {
+  text-align: center;
+}
+
+.live-class-title h4 {
+  margin: 0;
+}
+
+.live-class-title h2 {
+  margin: 0;
+  font-size: 44px;
+}
+
+.button-live-class {
+  font-size: 18px;
+  font-weight: 600;
+  padding: 16px 12px;
+  background-color: #fff;
+  box-shadow: 0px 30px 50px rgb(0 14 32 / 10%);
+  border-radius: 10px;
+  display: flex;
+  align-items: center;
+}

@@ -1,0 +1,66 @@
+.color-white {
+  color: white;
+}
+
+.color-grey {
+  color: #b7b7b7;
+}
+
+.color-red {
+  color: red;
+}
+
+.margin-0 {
+  margin: 0;
+}
+
+.margin-right {
+  margin-right: 1rem;
+}
+
+.margin-left {
+  margin-left: 1rem;
+}
+
+.margin-bottom {
+  margin-bottom: 1rem;
+}
+
+.margin-bottom-05 {
+  margin-bottom: 0.5rem;
+}
+
+.margin-top {
+  margin-top: 1rem;
+}
+
+.d-flex {
+  display: flex;
+}
+
+.d-flex-center {
+  align-items: center;
+}
+
+.center {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.width-component {
+  width: 95%;
+  margin: auto;
+}
+
+.text-bold {
+  font-weight: bold;
+}
+
+.w-100 {
+  width: 100%;
+}
+
+.flex-wrap {
+  flex-wrap: wrap;
+}

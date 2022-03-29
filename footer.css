@@ -1,0 +1,128 @@
+body {
+  font-family: "Source Sans Pro", sans-serif;
+}
+
+footer {
+  background-color: black;
+  padding: 10% 0 5% 0;
+  position: relative;
+}
+
+.container-footer {
+  display: flex;
+  width: 95%;
+  margin: auto;
+  border-bottom: 1px solid rgba(255, 255, 255, 0.1);
+  padding-bottom: 5%;
+}
+
+.container-footer-bottom {
+  width: 95%;
+  margin: auto;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.footer-column {
+  width: 25%;
+}
+
+footer ul {
+  list-style-type: none;
+  padding: 0;
+  margin: 0;
+}
+
+footer h4 {
+  font-size: 22px;
+  margin: 0;
+}
+
+footer ul li {
+  padding: 0 0 0.5rem 0;
+}
+
+footer input {
+  height: 58px;
+}
+
+.arrow-input {
+  height: 80px;
+  width: 60px;
+  /* background-color: #3270fc; */
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.arrow-input i {
+  font-size: 24px;
+}
+
+.arrow-up-footer {
+  font-size: 24px;
+  height: 44px;
+  width: 44px;
+  background-color: #3270fc;
+  position: fixed;
+  bottom: 5%;
+  right: 3%;
+}
+
+.container-icon-footer {
+  width: 44px;
+  height: 44px;
+  border-radius: 100%;
+  border: 1px solid white;
+}
+
+.text-footer {
+  width: 80%;
+}
+
+.container-footer-absolute {
+  border-radius: 2%;
+  width: 95%;
+  margin: auto;
+  position: absolute;
+  top: -30%;
+  left: 2%;
+  background: url(https://reactheme.com/products/wordpress/echooling/wp-content/uploads/2022/02/cta.jpg);
+}
+
+.container-footer-absolute-text {
+  width: 95%;
+  margin: auto;
+  padding: 5% 0 5% 0;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.container-button-footer-absolute {
+  width: 200px;
+  height: 50px;
+  border: 1px solid white;
+  cursor: pointer;
+}
+
+.container-button-footer-absolute:hover {
+  color: black;
+  background-color: white;
+}
+
+.container-button-footer-absolute i {
+  font-size: 24px;
+}
+
+.container-footer-absolute-text h3 {
+  margin: 0;
+  font-size: 44px;
+}
+
+.container-footer-absolute-text h4 {
+  margin: 0;
+  font-size: 16px;
+  margin-bottom: 1rem;
+}

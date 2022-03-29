@@ -1,0 +1,19 @@
+body {
+  font-family: "Source Sans Pro", sans-serif;
+}
+
+footer {
+  background-color: black;
+}
+
+.color-white {
+  color: white;
+}
+
+.color-grey {
+  color: #b7b7b9;
+}
+
+.margin-right {
+  margin-right: 1rem;
+}

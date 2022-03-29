@@ -1,0 +1,78 @@
+.opening-section {
+  margin-top: 100px;
+  background: url(https://reactheme.com/products/wordpress/echooling/wp-content/uploads/2022/01/01-1.jpg);
+}
+
+.container-item-nav {
+  width: 80%;
+  margin: auto;
+  display: flex;
+  justify-content: space-between;
+}
+
+.sub-opening-section-left {
+  width: 80%;
+  margin: auto;
+  justify-content: space-between;
+  align-items: center;
+}
+
+h1 {
+  font-size: 4rem;
+}
+
+.btn-start {
+  font-size: 18px;
+  font-weight: 600;
+  padding: 18px 35px;
+  border: 1px solid #fff;
+  background-color: white;
+  border-radius: 5px;
+  color: #0f1216;
+  fill: #0f1216;
+  cursor: pointer;
+}
+
+.btn-start:hover {
+  background-color: #3270fc;
+  color: #fff;
+}
+
+.btn-circle-start {
+  width: 70px;
+  height: 70px;
+  border: 1px solid #fff;
+  border-radius: 50%;
+  margin-left: 15px;
+  background-color: #fff;
+  cursor: pointer;
+}
+
+.btn-circle-start i {
+  color: #3270fc;
+}
+
+.img-animation {
+  position: absolute;
+  left: 5%;
+  animation-name: example;
+  animation-direction: alternate-reverse;
+  animation-timing-function: linear;
+  animation-duration: 12s;
+  animation-iteration-count: infinite;
+}
+
+@keyframes example {
+  0% {
+    top: 20%;
+  }
+  25% {
+    top: 25%;
+  }
+  50% {
+    top: 50%;
+  }
+  100% {
+    top: 80%;
+  }
+}
