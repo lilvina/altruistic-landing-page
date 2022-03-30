@@ -18,6 +18,7 @@ footer {
 
 .container-footer-bottom {
   width: 95%;
+  padding: 13px;
   margin: auto;
   display: flex;
   justify-content: space-between;
@@ -50,7 +51,6 @@ footer input {
 .arrow-input {
   height: 80px;
   width: 60px;
-  /* background-color: #3270fc; */
   display: flex;
   align-items: center;
   justify-content: center;
@@ -58,16 +58,6 @@ footer input {
 
 .arrow-input i {
   font-size: 24px;
-}
-
-.arrow-up-footer {
-  font-size: 24px;
-  height: 44px;
-  width: 44px;
-  background-color: #3270fc;
-  position: fixed;
-  bottom: 5%;
-  right: 3%;
 }
 
 .container-icon-footer {

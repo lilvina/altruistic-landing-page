@@ -15,6 +15,7 @@
 }
 .card-courses {
   display: flex;
+  margin: auto;
   align-items: center;
   border-radius: 6px;
   padding: 35px;
