@@ -49,15 +49,17 @@ footer input {
 }
 
 .arrow-input {
-  height: 80px;
+  height: 58px;
   width: 60px;
+  border-radius: 1px;
+  background-color: #3270fc;
   display: flex;
   align-items: center;
   justify-content: center;
 }
 
 .arrow-input i {
-  font-size: 24px;
+  font-size: 21px;
 }
 
 .container-icon-footer {
